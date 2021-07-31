@@ -1,3 +1,6 @@
+This is a basic Expense Tracker app. I am working on "Account" part in this app. 
+"Account" will store data of your credit-debit info with your friends. It will help to track your money with peoples.
+
 1)To use these code files, you need to download it.
 
 2)Then Open terminal to the folder in which you have these codes.
